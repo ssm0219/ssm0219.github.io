@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ssm0219.github.io/sitemap/sitemap-index.xml
+Host: https://ssm0219.github.io

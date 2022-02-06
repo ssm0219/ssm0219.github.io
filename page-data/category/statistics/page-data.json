@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-tsx",
+    "path": "/category/statistics/",
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"Book","totalCount":1},{"fieldValue":"Statistics","totalCount":1}],"totalCount":2,"edges":[{"node":{"id":"c4bf0f88-65eb-510f-a270-fe51fdaad48a","frontmatter":{"title":"<공감은 지능이다> 후기","category":"Book","date":"2021-02-06","desc":"책 <공감을 지능이다>를 읽고","thumbnail":{"childImageSharp":{"id":"23ee455e-58ff-5ca7-9fd7-97c2bf7e7465"},"base":"default.jpg"},"alt":"apple big sur gradient"},"fields":{"slug":"/blog/category-test/"}}},{"node":{"id":"6c69151d-9f75-5b35-8ec4-a621ced74b5d","frontmatter":{"title":"Code Highlight","category":"Statistics","date":"2020-02-01","desc":"Test Markdown Code Highlight","thumbnail":{"childImageSharp":{"id":"c9884a5e-dea6-558e-bd56-11df4b062384"},"base":"thumbnail.jpg"},"alt":"code block graphic"},"fields":{"slug":"/blog/code-block/"}}}]}},"pageContext":{"category":"Statistics"}},
+    "staticQueryHashes": ["1840460387","48878111"]}
