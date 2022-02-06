@@ -1,6 +1,5 @@
 # Hello
 
-Welcome to my blog. My name is Ed.<br>
-I'm very interested in the web front-end development.
+호기심 많은 데이터 분석가 송성민입니다.<br>
 
-Visit my [Github repository](https://github.com/sungik-choi/gatsby-starter-apple).
+Visit my [Github repository](https://github.com/ssm0219/ssm0219.github.io).

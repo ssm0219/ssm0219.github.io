@@ -13,11 +13,11 @@ const siteMetadata = {
   menuLinks: [
     {
       link: "/",
-      name: "Home",
+      name: "홈",
     },
     {
       link: "/about/",
-      name: "About",
+      name: "소개",
     },
     {
       link: meta.links.github,
