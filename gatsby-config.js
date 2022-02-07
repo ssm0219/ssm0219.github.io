@@ -104,6 +104,8 @@ const markdownPlugins = [
           resolve: "gatsby-remark-images",
           options: {
             linkImagesToOriginal: false,
+            showCaptions: true,
+            markdownCaptions: true,
           },
         },
       ],

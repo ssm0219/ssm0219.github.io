@@ -1,10 +1,10 @@
 ---
-title: "Code Highlight"
-category: "Statistics"
+title: "사전 관찰 피하기"
+category: "Time Series Analysis"
 date: "2020-02-01 12:00:00 +09:00"
-desc: "Test Markdown Code Highlight"
+desc: "Avoiding Look-ahead Bias"
 thumbnail: "./images/code-block/thumbnail.jpg"
-alt: "code block graphic"
+alt: "Avoiding Look-ahead Bias"
 ---
 
 ## Python
