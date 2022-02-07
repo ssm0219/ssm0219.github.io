@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-tsx",
+    "path": "/category/time-series-analysis/",
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"Book","totalCount":1},{"fieldValue":"Time Series Analysis","totalCount":1}],"totalCount":2,"edges":[{"node":{"id":"5a8d24c6-d2d7-5883-ba65-87d779dcfdcb","frontmatter":{"title":"<공감은 지능이다> 후기","category":"Book","date":"2021-02-06","desc":"원제: The War For Kindness","thumbnail":{"childImageSharp":{"id":"4c0c814b-5230-5b7c-9c8e-a26b9ef0bd0d"},"base":"04.jpg"},"alt":null},"fields":{"slug":"/blog/book_twfk/"}}},{"node":{"id":"6c69151d-9f75-5b35-8ec4-a621ced74b5d","frontmatter":{"title":"사전 관찰 피하기","category":"Time Series Analysis","date":"2020-02-01","desc":"Avoiding Look-ahead Bias","thumbnail":{"childImageSharp":{"id":"c9884a5e-dea6-558e-bd56-11df4b062384"},"base":"thumbnail.jpg"},"alt":"Avoiding Look-ahead Bias"},"fields":{"slug":"/blog/code-block/"}}}]}},"pageContext":{"category":"Time Series Analysis"}},
+    "staticQueryHashes": ["1840460387","48878111"]}
