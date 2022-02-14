@@ -1,7 +1,7 @@
 ---
 title: "<공감은 지능이다> 후기"
 category: "Book"
-date: "2021-02-06 21:19:00 +09:00"
+date: "2022-02-06 21:19:00 +09:00"
 desc: "원제: The War For Kindness"
 thumbnail: "./images/book_twfk/04.jpg"
 ---

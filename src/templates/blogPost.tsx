@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import styled from "styled-components"
+import '../../node_modules/katex/dist/katex.min.css';
 
 import type { Query } from "Types/GraphQL"
 import Layout from "Layouts/layout"

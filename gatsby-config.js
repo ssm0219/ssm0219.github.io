@@ -108,6 +108,13 @@ const markdownPlugins = [
             markdownCaptions: true,
           },
         },
+        {
+          resolve: `gatsby-remark-katex`,
+          options: {
+            // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
+            strict: `ignore`,
+          },
+        },
       ],
     },
   },
@@ -115,7 +122,14 @@ const markdownPlugins = [
 
 const searchPlugins = [
   "gatsby-plugin-sitemap",
-  "gatsby-plugin-robots-txt",
+  {
+    resolve: "gatsby-plugin-robots-txt",
+    options: {
+      host: 'https://ssm0219.github.io',
+      sitemap: 'https://ssm0219.github.io/sitemap/sitemap-index.xml',
+      policy: [{userAgent: '*', allow: '/'}]
+    }
+  },
   {
     resolve: `gatsby-plugin-feed`,
     options: {
