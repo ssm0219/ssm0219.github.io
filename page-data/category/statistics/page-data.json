@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-tsx",
+    "path": "/category/statistics/",
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"Book","totalCount":1},{"fieldValue":"Statistics","totalCount":1}],"totalCount":2,"edges":[{"node":{"id":"49d3fad2-1699-526d-b5b5-e375386ac954","frontmatter":{"title":"순열 검정(Permutation Test)","category":"Statistics","date":"2022-02-10","desc":"Python으로 내손내짠한 순열검정","thumbnail":{"childImageSharp":{"id":"27c31028-eccd-56f2-8fba-0cc578ab39db"},"base":"thumbnail_graph.jpg"},"alt":"Permutation Test"},"fields":{"slug":"/blog/permutation_test/"}}},{"node":{"id":"5a8d24c6-d2d7-5883-ba65-87d779dcfdcb","frontmatter":{"title":"<공감은 지능이다> 후기","category":"Book","date":"2021-02-06","desc":"원제: The War For Kindness","thumbnail":{"childImageSharp":{"id":"4c0c814b-5230-5b7c-9c8e-a26b9ef0bd0d"},"base":"04.jpg"},"alt":null},"fields":{"slug":"/blog/book_twfk/"}}}]}},"pageContext":{"category":"Statistics"}},
+    "staticQueryHashes": ["1840460387","48878111"]}
