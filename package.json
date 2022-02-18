@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "build": "gatsby build && cp google587f2cc1b14b42cf.html public/",
-    "deploy": "gatsby clean && gatsby build && gh-pages -d public -b gh-pages",
+    "deploy": "gatsby build && gh-pages -d public -b gh-pages",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop",
     "serve": "gatsby serve",
